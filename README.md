@@ -35,7 +35,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/miguelmota/go-ethereum-hdwallet"
+	"github.com/randomshinichi/go-ethereum-hdwallet"
 )
 
 func main() {
@@ -75,7 +75,7 @@ import (
 	"github.com/davecgh/go-spew/spew"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/miguelmota/go-ethereum-hdwallet"
+	"github.com/randomshinichi/go-ethereum-hdwallet"
 )
 
 func main() {
